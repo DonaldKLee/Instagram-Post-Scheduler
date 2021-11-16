@@ -1,0 +1,24 @@
+{
+    "posts": [
+        {
+            "caption": "",
+            "allow_commenting": true,
+            "date": "2021-11-16",
+            "time": "12:00",
+            "images": [
+                {
+                    "file": "",
+                    "tags": []
+                },
+                {
+                    "file": "",
+                    "tags": []
+                },
+                {
+                    "file": "",
+                    "tags": []
+                }
+            ]
+        }
+    ]
+}
