@@ -1,11 +1,3 @@
-"""
-Name: Donald Lee
-Class: Computer Programming 12
-
-Assignment 3: Do some other bot or scraper.
-Examples: a bot that buys sneakers, a bot that does typeracer, a bot that downloads and pdfs chapters from a web novel or comic
-"""
-
 import os, time, json
 
 from selenium import webdriver
