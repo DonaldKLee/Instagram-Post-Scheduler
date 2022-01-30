@@ -25,8 +25,17 @@ PATH = "C:\Program Files (x86)\chromedriver.exe"  # Step 4 of the installations 
 ```
 
 ### If you are stuck on step 3 or 4, watch this short [tutorial!](https://www.youtube.com/watch?v=Xjv1sY630Uc&feature=youtu.be&t=260)
+5. Create a .env file
+6. In the .env file, create a variable called "instagram_username" and "instagram_password"
+
+```
+instagram_username = ""
+instagram_password = ""
+```
+7. Inside the quotations, insert your Instagram username (Do not include the @) and password
 
 # How to use
+1. 
 
 # How it works?
 1. This script first opens up "https://www.instagram.com/". </br>
