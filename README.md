@@ -1,4 +1,4 @@
-# Instagram-Post-Scheduler (Readme file still in progress)
+# Instagram Post Scheduler
 
 A bot that can be used to schedule Instagram posts without the need of Hootsuite or Facebook Business Suite!
 
