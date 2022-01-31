@@ -1,6 +1,6 @@
 # Instagram-Post-Scheduler (Readme file still in progress)
 
-A bot that can...
+A bot that can be used to schedule Instagram posts without the need of Hootsuite or Facebook Business Suite!
 
 Note: This was a fun project for experimental and learning purposes. 
 </br> Please do not use this for malicious behaviour, because YOU will be responsible! 
@@ -38,6 +38,7 @@ instagram_password = ""
 1. Create a folder called "scheduledposts" and add all your post images into the folder
 2. Open up "posts_to_schedule.json"
 3. Modify the json data for your post, and then run "main.py"
+- If you are scheduling mutiple posts, please ensure that they are ordered from earliest to latest!
 
 Example:
 ```json
@@ -78,13 +79,6 @@ Example:
     ]
 }
 ```
-
-# How it works?
-1. This script first opens up "https://www.instagram.com/". </br>
-2. 
-
-## Libraries/Modules used:
-**Selenium** - A module used to automate web browsers.
 
 # Terms of Service 
 Please do **NOT** use this for spam, bullying, etc. 
